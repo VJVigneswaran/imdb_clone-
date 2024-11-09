@@ -1,0 +1,17 @@
+.banner{
+  background-image: url('https://c4.wallpaperflare.com/wallpaper/726/46/535/movies-hollywood-movies-wallpaper-preview.jpg');
+  background-size: 100% 100%; /* Makes the image cover the entire container */
+  background-position: center; /* Centers the image */
+  background-repeat: no-repeat; /* Prevents the image from repeating */
+  width: 100%; /* Set your desired width */
+  height: 420px;
+}
+
+.MovieCard{
+  width: 150px;
+  height: 300px;
+  border-radius: 10px;
+  background-size: 100% 100%; /* Makes the image cover the entire container */
+  background-position: center; /* Centers the image */
+  background-repeat: no-repeat; /* Prevents the image from repeating */
+}
